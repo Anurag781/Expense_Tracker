@@ -10,7 +10,6 @@ The Minimalist Expense Tracker is a streamlined financial tool that helps you mo
 * **Transaction History:** A clean, scrollable list of all your recent activity.
 * **Smart Categorization:** Easily distinguish between "Plus" (Income) and "Minus" (Expense) entries.
 * **Offline Persistence:** Uses LocalStorage to save your data so it’s still there when you refresh the page.
-* **Responsive Design:** Works perfectly on desktop, tablet, and mobile devices.
 
 ## 🛠 Tech Stack
 * **HTML5:** Semantic structure for financial data.
