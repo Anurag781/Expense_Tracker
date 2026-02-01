@@ -14,7 +14,7 @@ The Minimalist Expense Tracker is a streamlined financial tool that helps you mo
 
 ## 🛠 Tech Stack
 * **HTML5:** Semantic structure for financial data.
-* **Tailwind CSS:** For a modern, professional, and responsive UI.
+* **CSS:** For a modern, professional, and responsive UI.
 * **JavaScript:** Logic for calculations, DOM manipulation, and data persistence.
 ---
 
